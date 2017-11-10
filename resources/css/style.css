@@ -99,6 +99,11 @@ h4 {
   flex-wrap: wrap;
 }
 
+.locations h2 {
+  margin-top: 75px;
+  padding-top: 75px;
+}
+
 .location {
   background-color: black;
   display: flex;
